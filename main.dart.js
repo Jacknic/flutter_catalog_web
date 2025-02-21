@@ -31668,7 +31668,7 @@ A.aEN.prototype={
 $1(a){var s=A.eW().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/94cd4b14c97994c86d063d3812b53d4d0032fb66/":s)+a},
+if(s==null)s=null}return(s==null?"canvaskit/":s)+a},
 $S:198}
 A.a53.prototype={
 cX(){B.c.aG(this.a.a.save())},
